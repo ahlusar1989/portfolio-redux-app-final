@@ -63,15 +63,15 @@ ul.clients li {
    box-shadow:1px 1px 1px #ccc;
 }
 
-ul.clients li.goldmans-logo {
-   background: url('assets/goldmans-logo.jpg') no-repeat;
+/*ul.clients li.wynyard-logo {
+   background: url('assets/') no-repeat;
    width:124px;
 }
 
-ul.clients li.orange-logo {
-   background: url('assets/orange-logo.jpg') no-repeat;
+ul.clients li.divvy-logo {
+   background: url('assets/') no-repeat;
    width:70px;
-}
+}*/
 
 
 /**
