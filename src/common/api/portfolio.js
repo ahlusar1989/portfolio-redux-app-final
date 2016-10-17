@@ -1,34 +1,27 @@
 export function getPortfolio() {
   return [ 
-    {
-    	link : 'http://www.goldmansachs.com',
-    	title : 'Goldman Sachs',
-    	classname : 'goldmans',
-    	roles : [
-    		{
-    			title : 'Front End Developer',
-    			skills : 'React, Backbone, D3'
-    		},
-    		{
-    			title : 'Back End Developer',
-    			skills : 'Node, MongoDB, Webpack'
-    		}
-    	]
+  { 
+        link : 'http://www.divvycloud.com/',
+        title : 'DivvyCloud',
+        classname : 'divvy',
+        roles : [
+            {
+                title : 'Software Engineer',
+                skills : 'AngularJS, MySQL, Flask, Docker, ElasticSearch'
+            }
+        ]
     },
-    {
-    	link : 'http://www.libon.com/',
-    	title : 'Orange (Libon)',
-    	classname : 'orange',
+    { 
+    	link : 'https://www.wynyardgroup.com/us/?auto-region-from=1063',
+    	title : 'Wynyard Group',
+    	classname : 'wynyard',
     	roles : [
     		{
-    			title : 'Front End Developer',
-    			skills : 'Backbone, WebRTC, FireFoxOS'
-    		},
-    		{
-    			title : 'Back End Developer',
-    			skills : 'Node, MongoDB, Grunt'
+    			title : 'Associate Technologist',
+    			skills : 'Angular, Node, D3, Spark, Cassandra'
     		}
     	]
     }
+    
   ]
 }
